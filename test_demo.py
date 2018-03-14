@@ -1,5 +1,5 @@
 def test_demo_positive():
-	assert False
+	assert True
 	
 def test_demo_negative():
 	assert False
